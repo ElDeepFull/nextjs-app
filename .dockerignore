@@ -1,0 +1,5 @@
+node_modules
+.next
+.git
+
+# add any other files and folders here
